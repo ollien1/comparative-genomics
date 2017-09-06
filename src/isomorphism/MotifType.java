@@ -1,0 +1,7 @@
+package isomorphism;
+
+public enum MotifType {
+
+	MATCH, VARIATION, INSERTION, DELETION, INV_IN_SUB, INV_IN_QUERY, DUP_IN_SUB, 
+	ADJ_DUP_IN_SUB, DUP_IN_QUERY, ADJ_DUP_IN_QUERY;
+}

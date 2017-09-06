@@ -1,0 +1,17 @@
+seq|Newman_Test	seq|MRSA_Test	100.0	5	0 0 1	5	1	5 0 0
+seq|Newman_Test	seq|MRSA_Test	99.32	5	0 0 8	12	5	10 0 0
+seq|Newman_Test	seq|MRSA_Test	98.21	5	0 0 12	17	12	17 0 0
+seq|Newman_Test	seq|MRSA_Test	95.38	5	0 0 20	25	25	20 0 0
+seq|Newman_Test	seq|MRSA_Test	90.57	5	0 0 30	25	25	30 0 0
+seq|Newman_Test	seq|MRSA_Test	88.5	5	0 0 35	40	35	40 0 0
+seq|Newman_Test	seq|MRSA_Test	87.9	5	0 0 35	40	45	50 0 0
+seq|Newman_Test	seq|MRSA_Test	92.4	5	0 0 35	40	55	60 0 0
+seq|Newman_Test	seq|MRSA_Test	100.0	5	0 0 60	65	80	85 0 0
+seq|Newman_Test	seq|MRSA_Test	86.2	5	0 0 70	75	80	85 0 0
+seq|Newman_Test	seq|MRSA_Test	98.0	5	0 0 80	85	80	85 0 0
+seq|Newman_Test	seq|MRSA_Test	96.2	5	0 0 90	95	90	95 0 0
+seq|Newman_Test	seq|MRSA_Test	90.3	5	0 0 90	95	110	115 0 0
+seq|Newman_Test	seq|MRSA_Test	85.32	5	0 0 100	105	100	105 0 0
+seq|Newman_Test	seq|MRSA_Test	85.32	5	0 0 120	125	120	125 0 0
+seq|Newman_Test	seq|MRSA_Test	85.32	5	0 0 140	145	120	125 0 0
+seq|Newman_Test	seq|MRSA_Test	85.32	5	0 0 130	135	130	135 0 0
