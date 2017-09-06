@@ -200,17 +200,9 @@ public class IsomorphismInspector {
 		System.out.println("Dup in sub search complete " + (System.currentTimeMillis() - time));
 		time = System.currentTimeMillis();
 
-//		subgraphMap.put(MotifType.ADJ_DUP_IN_SUB, inspect(MotifType.ADJ_DUP_IN_SUB));
-//		System.out.println("Adj dup in sub search complete " + (System.currentTimeMillis() - time));
-//		time = System.currentTimeMillis();
-
 		subgraphMap.put(MotifType.DUP_IN_QUERY, inspect(MotifType.DUP_IN_QUERY));
 		System.out.println("Dup in query search complete " + (System.currentTimeMillis() - time));
 		time = System.currentTimeMillis();
-
-//		subgraphMap.put(MotifType.ADJ_DUP_IN_QUERY, inspect(MotifType.ADJ_DUP_IN_QUERY));
-//		System.out.println("Adj dup in query search complete " + (System.currentTimeMillis() - time));
-//		time = System.currentTimeMillis();
 
 		return subgraphMap;
 	}
